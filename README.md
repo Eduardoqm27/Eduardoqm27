@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou @Eduardoqm27
 - 👀 Estou interessado em carros
-- 🌱 Atualmente estou aprendendo Models, com a utilização do SQL
+- 🌱 Atualmente estou finalizando meu TCC
 - 😄 Pronomes: Hétero/Ford Mustang 69
 
 <!---
