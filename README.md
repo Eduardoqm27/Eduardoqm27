@@ -21,7 +21,7 @@ Bem-vindo ao meu espaço no GitHub! Aqui você encontra meus projetos acadêmico
 
 ### 📁 **Projetos em Destaque**
 
-[Aqui você vai "fixar" os seus melhores repositórios. Vou te ensinar como fazer isso na seção de ações práticas abaixo.]
+https://github.com/Eduardoqm27/ComaBemTCC
 
 ---
 
