@@ -27,7 +27,7 @@ https://github.com/Eduardoqm27/ComaBemTCC
 
 ### 📊 **Estatísticas do GitHub**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Eduardoqm27's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eduardoqm27)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
